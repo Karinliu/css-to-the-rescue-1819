@@ -89,3 +89,5 @@ git clone https://github.com/Karinliu/css-to-the-rescue-1819.git
 
 cd css-to-the-rescue-1819/app
 ```
+
+to see the application, it is best to use the `chrome` browser.
